@@ -4,4 +4,4 @@ LoginPage
 Add User Page
 View User Page
 Delete 
-Update
+Edit
